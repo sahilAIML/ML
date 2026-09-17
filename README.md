@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1Fp0ccHn7Fnl5-f2nt7IACqNGO660-AHG/view?usp=sharing" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+<img src="Res/banner.jpg" width="20%" style="border-radius: 10px; margin-bottom: 20px;">
 
 # 🤖 The Ultimate Machine Learning Playground
 
-[![GitHub Stars](https://shields.io)](https://github.com)
-[![GitHub Forks](https://shields.io)](https://github.com)
-[![Issues](https://shields.io)](https://github.com)
+[![GitHub Stars](https://shields.io)](https://github.com/sahilAIML)
+[![GitHub Forks](https://shields.io)](https://github.com/sahilAIML)
+[![Issues](https://shields.io)](https://github.com/sahilAIML)
 [![License](https://shields.io)](LICENSE)
 
 <p align="center">
